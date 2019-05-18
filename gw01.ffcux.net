@@ -1,0 +1,3 @@
+key "d3bb1b034385fb7ac35349aa791456fe18bef69bbb286202a223b22290fa8d0f";
+remote ipv4 "gw01.ffcux.net" port 10050;
+remote ipv6 "gw01.ffcux.net" port 10050;
